@@ -37,6 +37,21 @@
                 android:layout_height="wrap_content"
                 android:text="Pachi"
                 android:textSize="35dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Cat"
+                android:textSize="35dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Dog"
+                android:textSize="35dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Hamster"
+                android:textSize="35dp"/>
 
         </LinearLayout>
 
